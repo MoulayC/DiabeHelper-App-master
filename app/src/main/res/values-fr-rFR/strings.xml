@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Journal du diabète</string>
+    <string name="action_settings">Parametres</string>
+    <string name="glocuseTitle">Glucose</string>
+    <string name="five">Cinque</string>
+    <string name="four">Quatre</string>
+    <string name="six">Six</string>
+    <string name="three">Trois</string>
+    <string name="two">Deux</string>
+    <string name="title_activity_icon_text_tabs">DiabeHelper</string>
+    <string name="hello_world">Salut le monde!</string>
+    <string name="title_activity_add_doctor">Ajouter un médecin</string>
+    <string name="title_activity_add_appointment">Rendez-vous</string>
+    <string name="title_activity_add_reminder">Ajouter rappel</string>
+    <string name="title_activity_my_profile">Mon profile</string>
+    <string name="ok">Ok</string>
+    <string name="food">"Le régime alimentaire d'un diabétique devrait avoir un ratio de 60:20:20: pour les carbohydrates, les graisses et les protéines. Le médecin explique que l'apport calorique quotidien devrait se situer entre 1 500 et 1 800 calories avec une proportion de 60:20:20 entre les glucides, les lipides et les protéines, respectivement. Il ajoute qu'un régime alimentaire pour diabétiques devrait comporter au moins trois fruits de saison et trois légumes. Bien que les fruits sec peuvent sembler être une collation saine, ce n'est pas une bonne option pour les diabétiques, car le fructose peut augmenter votre taux de sucre trop rapidement. Optez pour des fruits frais plutôt que des fruits secs pour le contrôle de votre glycémie (mais il y a certaines restrictions...nous y viendrons). Mais vous pouvez toujours opter pour les noix comme collation santé. A suivre. "</string>
+    <string name="excercise">L\'entrainement aérobique et de résistance sont tous deux importants pour les personnes atteintes de diabète.  Exercices aérobiques: L\'exercice aérobique est un exercice continu comme la marche, le vélo ou le jogging et la natation qui élève le rythme respiratoir et le rythme cardiaque.  Exercices de résistance L\'exercice de résistance implique de brefs exercices répétitifs avec des poids, des machines de musculation, des bandes de résistance ou le poids corporel pour développer la force musculaire.  Si vous décidez de commencer un exercice de résistance, vous devriez d\'abord obtenir des instructions d\'un spécialiste de l\'exercice qualifié, d\'un éducateur en diabète ou d\'une ressource d\'exercice (comme une vidéo ou une brochure de source fiable) et commencer lentement et suivre votre glycémie dans le temps.</string>
+    <string name="font_fontFamily_medium">sans-serif-medium</string>
+</resources>

@@ -1,0 +1,72 @@
+<resources>
+    <string name="app_name">DiabHelper</string>
+
+    <string name="action_settings">Parametres</string>
+
+    <string name="glocuseTitle">Glucose</string>
+    <string name="five">FIVE</string>
+    <string name="four">FOUR</string>
+    <string name="six">SIX</string>
+    <string name="three">THREE</string>
+    <string name="two">TWO</string>
+    <string name="title_activity_icon_text_tabs">DiabHelper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="drawer_open">Tiroir ouvert</string>
+    <string name="drawer_close">Tiroir fermé</string>
+
+    <string-array name="glucose_reading_taken_arrays">
+        <item>Avant Petit dejeuner</item>
+        <item>Aprés Petit dejeuner</item>
+        <item>Avant le Dejeuner</item>
+        <item>Aprés le Dejeuner</item>
+        <item>Avant le Diner</item>
+        <item>Aprés le Diner</item>
+    </string-array>
+
+
+    <string-array name="reminder_frequency_arrays">
+        <item>Journalier</item>
+        <item>Hebdomadaire</item>
+        <item>Jamais</item>
+    </string-array>
+
+    <string-array name="gender_arrays">
+        <item>Homme</item>
+        <item>Femme</item>
+    </string-array>
+
+    <string-array name="type_arrays">
+        <item>Type 1</item>
+        <item>Type 2</item>
+    </string-array>
+    <string name="title_activity_add_doctor">Ajouter un médecin</string>
+    <string name="title_activity_add_appointment">Rendez-vous</string>
+    <string name="title_activity_add_reminder">Ajouter rappel</string>
+    <string name="title_activity_my_profile">Mon profile</string>
+    <string name="permission_message_rationale_all">L"application a besoin d"avoir des permissions pour fonctionner correctement.</string>
+
+    <string name="ok">OK</string>
+
+
+    <string name="food">
+        <p>Bien s\'alimenter peut vous aider considérablement à obtenir un bon contrôle de votre glycémie.
+        Les recommandations pour l\’alimentation de la personne diabétique sont semblables à celles pour la population en général.</p>
+        <b>Quelques conseils de base:</b>
+        -Prenez trois repas équilibrés par jour et, au besoin, des collations. Évitez de sauter des repas.
+        -Ayez un horaire de repas régulier. Ceux-ci devraient être espacés d’environ 4 à 6 heures. Les collations devraient être prises de 2 à 3 heures après le repas, s’il y a lieu.
+        -Mangez une variété d’aliments provenant des différents groupes alimentaires : légumes et fruits, féculents, lait et substituts, viandes et substituts.
+        -Choisissez des aliments riches en fibres alimentaires : légumes et fruits, produits céréaliers à grains entiers, légumineuses, noix et graines, etc.
+        -Composez votre repas selon le modèle de l\'assiette équilibrée.
+        -Limitez la consommation d’aliments sucrés et peu nutritifs (gâteaux, pâtisseries, sucreries, chocolat, biscuits, cassonade, miel, mélasse, sirops, confitures, etc.). Ceux-ci ne devraient être consommés qu’en petite quantité et de façon occasionnelle.
+        -Privilégiez l’eau pour vous hydrater plutôt que les jus de fruits et les boissons sucrées.
+        -Si vous consommez des substituts du sucre (aspartame, sucralose, cyclamates, saccharines, stevia, etc.) ou des produits qui en contiennent, faites-le avec modération.
+        -Si vous consommez de l’alcool, faites-le de préférence en mangeant et respectez les quantités recommandées.
+        -Portez une attention particulière aux portions et à la répartition des aliments contenant des glucides : fruits, féculents, lait et substituts, légumineuses, certains légumes et aliments avec sucre ajouté.
+    </string>
+
+
+    <string name="excercise">L"exercice aérobique et l"exercice de résistance sont tous deux importants pour les personnes atteintes de diabète.
+
+    </string>
+
+</resources>
